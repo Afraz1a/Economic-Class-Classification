@@ -1,6 +1,7 @@
 # Economic Class Classification
 
 A machine learning solution for predicting household economic class (lower / middle / upper) from individual-level survey data. Built for **CodeRush 2026 · ML Module**.
+**Ranked in top 5 candidates**.
 
 **Final Score: 0.7366 macro F1** on out-of-fold predictions.
 
